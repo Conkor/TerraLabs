@@ -1,2 +1,2 @@
 # TerraLabs
-Labs for testing terraform coomands
+Labs for testing terraform commands
